@@ -9,5 +9,5 @@
 - **요약 정리** (`notes.md`)
 
 ## ✨ 참고 강의
-[https://www.udemy.com/course/the-complete-javascript-course/](강의 URL)
+[https://www.udemy.com/course/the-complete-javascript-course/]
 
